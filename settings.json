@@ -16,8 +16,6 @@
     },
     "list": [
       {
-        "backgroundImage": "C:/Users/senhu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/images/bg/shell.png",
-        "backgroundImageOpacity": 0.20000000000000001,
         "colorScheme": "Gruvbox Dark",
         "commandline": "powershell.exe -NoLogo -NoExit",
         "experimental.retroTerminalEffect": false,
@@ -29,16 +27,14 @@
         "hidden": false,
         "icon": "C:/Users/senhu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/images/icons/shell.png",
         "name": "Shell",
-        "opacity": 80,
+        "opacity": 60,
         "padding": "0",
         "scrollbarState": "hidden",
         "startingDirectory": "~",
         "useAcrylic": true,
-        "acrylicOpacity": 0.5
+        "acrylicOpacity": 0.4
       },
       {
-        "backgroundImage": "C:/Users/senhu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/images/bg/linux.png",
-        "backgroundImageOpacity": 0.20000000000000001,
         "colorScheme": "Gruvbox Dark",
         "commandline": "wsl.exe",
         "font": {
@@ -49,12 +45,12 @@
         "hidden": false,
         "icon": "C:/Users/senhu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/images/icons/linux.png",
         "name": "zsh",
-        "opacity": 80,
+        "opacity": 60,
         "padding": "0",
         "startingDirectory": "~",
         "tabTitle": "Kali Linux",
         "useAcrylic": true,
-        "acrylicOpacity": 0.5
+        "acrylicOpacity": 0.4
       }
     ]
   },
