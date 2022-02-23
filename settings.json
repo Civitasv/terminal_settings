@@ -27,12 +27,12 @@
         "hidden": false,
         "icon": "C:/Users/senhu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/images/icons/shell.png",
         "name": "Shell",
-        "opacity": 60,
+        "opacity": 80,
         "padding": "0",
         "scrollbarState": "hidden",
         "startingDirectory": "~",
         "useAcrylic": true,
-        "acrylicOpacity": 0.4
+        "acrylicOpacity": 0.6
       },
       {
         "colorScheme": "Gruvbox Dark",
@@ -45,12 +45,12 @@
         "hidden": false,
         "icon": "C:/Users/senhu/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/images/icons/linux.png",
         "name": "zsh",
-        "opacity": 60,
+        "opacity": 80,
         "padding": "0",
         "startingDirectory": "~",
         "tabTitle": "Kali Linux",
         "useAcrylic": true,
-        "acrylicOpacity": 0.4
+        "acrylicOpacity": 0.6
       }
     ]
   },
