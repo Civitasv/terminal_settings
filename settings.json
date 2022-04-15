@@ -10,7 +10,7 @@
         "defaults": {
             "cursorShape": "filledBox",
             "font": {
-                "face": "FiraCode Nerd Font"
+                "face": "FiraCode Nerd Font Mono"
             }
         },
         "list": [
@@ -19,7 +19,7 @@
                 "commandline": "powershell.exe -NoLogo -NoExit",
                 "experimental.retroTerminalEffect": false,
                 "font": {
-                    "size": 13
+                    "size": 12
                 },
                 "guid": "{08960bfb-4ffe-4030-83b5-365869c33f5e}",
                 "hidden": false,
@@ -46,18 +46,6 @@
                 "startingDirectory": "~",
                 "tabTitle": "Kali Linux",
                 "useAcrylic": true
-            },
-            {
-                "guid": "{6f365e9d-80dd-58c0-b660-ded3d9c97615}",
-                "hidden": false,
-                "name": "Developer Command Prompt for VS 2019",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{79407a26-bf9e-5f1b-84a1-52f1517cf683}",
-                "hidden": false,
-                "name": "Developer PowerShell for VS 2019",
-                "source": "Windows.Terminal.VisualStudio"
             }
         ]
     },
